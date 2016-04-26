@@ -33,7 +33,11 @@ h1{
   font-family: 'Pacifico', cursive;
   color: #fff;
   letter-spacing: 4px;
-}
+  text-shadow:
+    1px 0px 1px #ccc, 0px 1px 1px #000,
+    2px 1px 1px #ccc, 1px 2px 1px #000,
+    3px 2px 1px #ccc, 2px 3px 1px #000;
+  }
 
 h3{
   color: #fff;
@@ -58,6 +62,7 @@ h3{
     border-radius: 0;
     color: #333;
     background-color: rgb(255,255,255);
+    margin-top: 20px;
 }
 
 .btn-light:hover,
@@ -191,6 +196,7 @@ hr.small {
 #logo{
   height: 64px;
   margin-bottom: 14px;
+  margin-top: 14px;
 }
 
 
