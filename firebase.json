@@ -1,0 +1,9 @@
+{
+  "firebase": "portfolio-site-2016",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

@@ -33,13 +33,13 @@ h1{
   font-family: 'Pacifico', cursive;
   color: #FFF;
   letter-spacing: 4px;
-  text-shadow:
+  /*text-shadow:
     1px 0px 1px #ccc, 0px 1px 1px #000,
-    2px 1px 1px #ccc, 1px 2px 1px #0A0A66;
+    2px 1px 1px #ccc, 1px 2px 1px #0A0A66;*/
   }
 
 h3{
-  color: #000;
+  color: #FFF;
 }
 
 
@@ -69,7 +69,7 @@ h3{
 .btn-light:hover,
 .btn-light:focus,
 .btn-light:active {
-    color: #333;
+    color: #fff;
     background-color: rgba(0,0,0,0.4);
 }
 
